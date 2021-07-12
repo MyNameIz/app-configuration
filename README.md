@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-App-configuration package is a fork of [config](https://www.npmjs.com/package/config) package.
+Parsed-config package is a fork of [config](https://www.npmjs.com/package/config) package.
 The library is almost the same as config package, but it parses values from environment variables by default. This feature makes possible geting environment variables already parsed to their types and grouped into configuration objects.
 
 Documentation
