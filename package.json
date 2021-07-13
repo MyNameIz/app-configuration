@@ -1,7 +1,8 @@
 {
   "name": "parsed-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/config.js",
+  "types": "./types/index.d.ts",
   "description": "Configuration control and parsing for production node deployments",
   "author": "Alexey T",
   "homepage": "https://github.com/MyNameIz/parsed-config",
